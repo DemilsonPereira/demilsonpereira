@@ -10,7 +10,7 @@
   <img align="center" alt="Demilson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Demilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Demilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Demilson-Node" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<!--   <img align="center" alt="Demilson-Node" height="30" width="40" src="href=""> -->
   <i class="devicon-nodejs-plain colored"></i>
 
 </div>
@@ -23,7 +23,7 @@
   <a href = "mailto:demilson.d2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-  ![Snake animation]
+  ![Snake animation](https://github.com/demilsonpereira/demilsonpereira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
