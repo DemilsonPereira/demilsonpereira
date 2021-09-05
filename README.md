@@ -28,7 +28,7 @@
 </div>
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Serverless | AWS 
 - 📫 How to reach me: demilson.d2102@gmail.com
 - 😄 Pronouns: He/His
 
