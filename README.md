@@ -5,7 +5,7 @@
   <a href = "mailto:demilson.d2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
