@@ -1,6 +1,6 @@
 ## Hey! I am Demilson Pereira
  <div>
-     <a href="https://www.linkedin.com/in/demilson-pereira-2a6926170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnrnbLkxbQICiFwh2cFrzRg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://www.linkedin.com/in/demilsonpereira87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/zWUxrShSRJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:demilson.d2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
